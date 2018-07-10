@@ -1,0 +1,6 @@
+E:\C# Workspace\DataBaseAccess\DataBaseAccess\bin\Debug\DataBaseAccess.exe.config
+E:\C# Workspace\DataBaseAccess\DataBaseAccess\bin\Debug\DataBaseAccess.exe
+E:\C# Workspace\DataBaseAccess\DataBaseAccess\bin\Debug\DataBaseAccess.pdb
+E:\C# Workspace\DataBaseAccess\DataBaseAccess\obj\Debug\DataBaseAccess.csprojResolveAssemblyReference.cache
+E:\C# Workspace\DataBaseAccess\DataBaseAccess\obj\Debug\DataBaseAccess.exe
+E:\C# Workspace\DataBaseAccess\DataBaseAccess\obj\Debug\DataBaseAccess.pdb
