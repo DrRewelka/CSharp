@@ -1,0 +1,6 @@
+E:\C# Workspace\WdTG\WdTG\bin\Debug\WdTG.exe.config
+E:\C# Workspace\WdTG\WdTG\bin\Debug\WdTG.exe
+E:\C# Workspace\WdTG\WdTG\bin\Debug\WdTG.pdb
+E:\C# Workspace\WdTG\WdTG\obj\Debug\WdTG.csprojResolveAssemblyReference.cache
+E:\C# Workspace\WdTG\WdTG\obj\Debug\WdTG.exe
+E:\C# Workspace\WdTG\WdTG\obj\Debug\WdTG.pdb
