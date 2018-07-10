@@ -1,0 +1,10 @@
+E:\C# Workspace\TestDB\TestDB\bin\Debug\TestDB.exe.config
+E:\C# Workspace\TestDB\TestDB\bin\Debug\TestDB.mdb
+E:\C# Workspace\TestDB\TestDB\bin\Debug\TestDB.exe
+E:\C# Workspace\TestDB\TestDB\bin\Debug\TestDB.pdb
+E:\C# Workspace\TestDB\TestDB\obj\Debug\TestDB.csprojResolveAssemblyReference.cache
+E:\C# Workspace\TestDB\TestDB\obj\Debug\TestDB.Form1.resources
+E:\C# Workspace\TestDB\TestDB\obj\Debug\TestDB.Properties.Resources.resources
+E:\C# Workspace\TestDB\TestDB\obj\Debug\TestDB.csproj.GenerateResource.Cache
+E:\C# Workspace\TestDB\TestDB\obj\Debug\TestDB.exe
+E:\C# Workspace\TestDB\TestDB\obj\Debug\TestDB.pdb
