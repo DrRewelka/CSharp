@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2015\Projects\MinMaxAlgorithm\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.exe.config
+c:\users\student\documents\visual studio 2015\Projects\MinMaxAlgorithm\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.exe
+c:\users\student\documents\visual studio 2015\Projects\MinMaxAlgorithm\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.pdb
+c:\users\student\documents\visual studio 2015\Projects\MinMaxAlgorithm\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\MinMaxAlgorithm\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.exe
+c:\users\student\documents\visual studio 2015\Projects\MinMaxAlgorithm\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.pdb
+E:\C# Workspace\MinMaxAlgorithm\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.exe.config
+E:\C# Workspace\MinMaxAlgorithm\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.exe
+E:\C# Workspace\MinMaxAlgorithm\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.pdb
+E:\C# Workspace\MinMaxAlgorithm\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.csprojResolveAssemblyReference.cache
+E:\C# Workspace\MinMaxAlgorithm\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.exe
+E:\C# Workspace\MinMaxAlgorithm\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.pdb
