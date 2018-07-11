@@ -1,0 +1,185 @@
+7/24/2017 6:01:53 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:23:06 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:24:23 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:25:36 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:28:17 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:30:29 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:37:23 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:38:23 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:41:04 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 6:59:39 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 7:02:46 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 7:04:36 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o użytkowniku z ID:  w tabeli People
+7/24/2017 7:06:57 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 7:08:04 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 7:08:45 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o użytkowniku z ID: 2 w tabeli People
+7/24/2017 7:10:32 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 7:19:51 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/24/2017 7:20:23 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 4:11:04 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:12:56 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:13:56 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:15:07 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:16:08 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:18:53 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:20:12 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:21:14 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:24:28 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:27:13 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:28:18 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 3
+7/26/2017 4:35:38 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:35:43 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 5
+7/26/2017 4:44:08 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:44:16 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/26/2017 4:47:57 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 4:48:24 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 4:52:56 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 4:53:10 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 4:53:26 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 4:53:36 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/26/2017 4:56:25 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 4:56:36 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 4:57:32 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 4:57:43 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 4:58:14 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 4:58:25 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 4:59:17 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 4:59:28 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 5:00:09 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/26/2017 5:00:18 PM ==> UserID: 1 || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/26/2017 6:45:30 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 6:45:44 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 2
+7/26/2017 6:46:34 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 2
+7/26/2017 6:46:35 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 2
+7/26/2017 6:46:58 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 2
+7/26/2017 6:47:38 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 3
+7/26/2017 6:51:35 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 6:51:43 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 2
+7/26/2017 6:53:02 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 6:55:46 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 6:56:44 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/26/2017 7:05:53 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:09:20 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:18:21 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:21:43 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:33:17 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:36:36 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:36:59 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 5
+7/26/2017 7:37:02 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/26/2017 7:37:06 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 5
+7/26/2017 7:37:09 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 5
+7/26/2017 7:37:11 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 5
+7/26/2017 7:37:13 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 5
+7/26/2017 7:37:14 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/26/2017 7:37:17 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/26/2017 7:38:30 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:39:57 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:40:55 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:41:00 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/26/2017 7:41:12 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/26/2017 7:42:11 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 7:44:32 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:12:36 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:17:04 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:20:22 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:21:56 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:22:00 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/26/2017 8:29:33 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:35:59 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:36:55 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:37:37 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:38:22 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:39:50 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/26/2017 8:40:44 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/27/2017 3:38:39 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 4:48:17 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 4:49:07 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 4:50:10 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 4:51:48 PM ==> UserID:  || Data: 7/27/2017 4:50:13 PM || Operacja wykonana: wygenerowanie raportu z aktualnie wypożyczonym sprzętem
+7/27/2017 4:52:28 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/27/2017 4:54:23 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/27/2017 5:01:15 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/27/2017 5:02:35 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:03:25 PM ==> UserID: 1 || Data: 7/27/2017 5:03:25 PM || Operacja wykonana: dodanie pola opisowego: Opis do tabeli Assets
+7/27/2017 5:03:31 PM ==> UserID: 1 || Data: 7/27/2017 5:03:31 PM || Operacja wykonana: dodanie pola opisowego: Opis_2 do tabeli Assets
+7/27/2017 5:03:34 PM ==> UserID: 1 || Data: 7/27/2017 5:03:34 PM || Operacja wykonana: dodanie pola opisowego: Opis_3 do tabeli Assets
+7/27/2017 5:04:27 PM ==> UserID: 1 || Data: 7/27/2017 5:04:27 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 1 w tabeli Assets
+7/27/2017 5:05:03 PM ==> UserID: 1 || Data: 7/27/2017 5:05:03 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 3 w tabeli Assets
+7/27/2017 5:05:43 PM ==> UserID: 1 || Data: 7/27/2017 5:05:43 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 5 w tabeli Assets
+7/27/2017 5:06:12 PM ==> UserID: 1 || Data: 7/27/2017 5:06:12 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 6 w tabeli Assets
+7/27/2017 5:06:37 PM ==> UserID: 1 || Data: 7/27/2017 5:06:37 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 7 w tabeli Assets
+7/27/2017 5:07:08 PM ==> UserID: 1 || Data: 7/27/2017 5:07:08 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 7 w tabeli Assets
+7/27/2017 5:07:27 PM ==> UserID: 1 || Data: 7/27/2017 5:07:27 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 5 w tabeli Assets
+7/27/2017 5:08:27 PM ==> UserID: 1 || Data: 7/27/2017 5:08:27 PM || Operacja wykonana: aktualizacja danych o przedmiocie z ID: 6 w tabeli Assets
+7/27/2017 5:08:35 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/27/2017 5:21:41 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/27/2017 5:21:46 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 3
+7/27/2017 5:22:10 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:22:22 PM ==> UserID:  || Operacja wykonana: wygenerowanie raportu z aktualnie wypożyczonym sprzętem
+7/27/2017 5:24:17 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:29:40 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:31:24 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:31:28 PM ==> UserID:  || Operacja wykonana: wygenerowanie raportu z aktualnie wypożyczonym sprzętem
+7/27/2017 5:32:21 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:32:25 PM ==> UserID:  || Operacja wykonana: wygenerowanie raportu z aktualnie wypożyczonym sprzętem
+7/27/2017 5:35:25 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/27/2017 5:35:32 PM ==> UserID:  || Operacja wykonana: wygenerowanie raportu z aktualnie dostępnym sprzętem
+7/28/2017 1:49:54 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 1:52:56 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 2:11:20 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 2:11:26 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 6
+7/28/2017 2:11:43 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 2:14:44 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 2:41:24 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 2:41:30 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/28/2017 2:41:33 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 3
+7/28/2017 2:41:34 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 6
+7/28/2017 2:42:56 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 2:43:35 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/28/2017 2:47:53 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 2:50:02 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 2:51:59 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 2:53:00 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 3:06:41 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:07:35 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:10:02 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:46:24 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:48:06 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:51:28 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:56:26 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/28/2017 3:57:43 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/28/2017 3:58:28 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 5:25:02 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/28/2017 5:26:53 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/29/2017 12:48:54 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/29/2017 12:49:53 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/29/2017 1:06:43 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/29/2017 2:07:32 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/29/2017 2:09:49 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/29/2017 2:11:34 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 5:22:52 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 5:30:35 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 5:31:36 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 5:31:49 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 5:32:21 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/30/2017 5:32:27 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 3
+7/30/2017 5:32:31 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 6
+7/30/2017 5:32:48 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 5:33:04 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 5:33:38 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 5:34:06 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 5:34:38 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 5:35:37 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 5:35:48 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 6:13:18 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 6:14:05 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji na sprzęcie
+7/30/2017 6:17:14 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 6:17:21 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji dla sprzętu o ID: 1
+7/30/2017 6:17:36 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/30/2017 6:17:44 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/30/2017 6:18:00 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 6:22:40 PM ==> UserID: 3 || Operacja wykonana: zalogowanie.
+7/30/2017 6:22:47 PM ==> UserID: 3 || Operacja wykonana: wypożyczenie przedmiotu o ID: 1
+7/30/2017 6:22:55 PM ==> UserID: 3 || Operacja wykonana: zwrot przedmiotu o ID: 1
+7/30/2017 6:23:08 PM ==> UserID: 1 || Operacja wykonana: zalogowanie.
+7/30/2017 6:23:19 PM ==> UserID:  || Operacja wykonana: wygenerowanie historii operacji dla sprzętu o ID: 1

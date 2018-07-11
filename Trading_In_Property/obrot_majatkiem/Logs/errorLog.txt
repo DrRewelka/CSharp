@@ -1,0 +1,40 @@
+7/24/2017 5:59:56 PM ==> Unable to cast object of type 'System.Int32' to type 'System.String'.
+7/24/2017 6:00:01 PM ==> Unable to cast object of type 'System.Int32' to type 'System.String'.
+7/24/2017 6:00:18 PM ==> Unable to cast object of type 'System.Int32' to type 'System.String'.
+7/26/2017 4:11:18 PM ==> ExecuteReader requires an open and available Connection. The connection's current state is closed.
+7/26/2017 4:13:05 PM ==> Nie można umieścić funkcji agregującej w klauzuli WHERE (ID=MAX(ID)).
+7/26/2017 4:14:03 PM ==> Nie można umieścić funkcji agregującej w klauzuli WHERE (MAX(ID)).
+7/26/2017 4:23:07 PM ==> The given path's format is not supported.
+7/26/2017 6:53:24 PM ==> Object reference not set to an instance of an object.
+7/26/2017 7:05:56 PM ==> Ta podkwerenda może zwrócić co najwyżej jeden rekord.
+7/26/2017 7:38:37 PM ==> No value given for one or more required parameters.
+7/26/2017 7:44:34 PM ==> Błąd składniowy (brak operatora) w wyrażeniu kwerendy 'Wycofany = 'Nie' AND Skasowany = 'Nie' AND Zwrócony [FROM Borrows] = 'Tak''.
+7/26/2017 8:12:39 PM ==> Ta podkwerenda może zwrócić co najwyżej jeden rekord.
+7/26/2017 8:20:31 PM ==> No value given for one or more required parameters.
+7/26/2017 8:29:36 PM ==> Ta podkwerenda może zwrócić co najwyżej jeden rekord.
+7/26/2017 8:36:02 PM ==> Napisano podkwerendę, która może zwrócić więcej niż jedno pole, bez użycia zastrzeżonego słowa EXISTS w klauzuli FROM kwerendy głównej. Zmień instrukcję SELECT podkwerendy tak, aby wybierała tylko jedno pole.
+7/26/2017 8:36:57 PM ==> Zbędny ) w wyrażeniu kwerendy 'Wycofany = 'Nie' AND Skasowany = 'Nie' AND Borrows.Zwrócony = 'Tak')'.
+7/26/2017 8:37:39 PM ==> No value given for one or more required parameters.
+7/26/2017 8:39:52 PM ==> Niewłaściwa instrukcja SQL; oczekiwano 'DELETE', 'INSERT', 'PROCEDURE', 'SELECT' lub 'UPDATE'.
+7/27/2017 4:48:23 PM ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/27/2017 4:52:38 PM ==> Powtarzające się przeznaczenie wyjścia 'Wypożyczony'.
+7/27/2017 5:02:51 PM ==> Aparat bazy danych nie może zablokować dostępu do tabeli 'Assets', ponieważ jest ona aktualnie wykorzystywana przez innego użytkownika lub proces.
+7/27/2017 5:03:00 PM ==> Aparat bazy danych nie może zablokować dostępu do tabeli 'Assets', ponieważ jest ona aktualnie wykorzystywana przez innego użytkownika lub proces.
+7/27/2017 5:03:03 PM ==> Aparat bazy danych nie może zablokować dostępu do tabeli 'Assets', ponieważ jest ona aktualnie wykorzystywana przez innego użytkownika lub proces.
+7/27/2017 5:08:50 PM ==> Instrukcja INSERT INTO zawiera następującą nieznaną nazwę pola: 'Opis_2'. Sprawdź pisownię tej nazwy i powtórz operację.
+7/28/2017 2:11:52 PM ==> Błąd składniowy (brak operatora) w wyrażeniu kwerendy 'Data_wypożyczenia >= 7/25/2017 12:00:00 PM AND Data_wypożyczenia <= 7/26/2016 8:00:00 PM'.
+7/28/2017 2:14:51 PM ==> Nieodpowiedni typ danych w wyrażeniu kryterium.
+7/28/2017 2:50:39 PM ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/28/2017 2:52:11 PM ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/28/2017 3:06:49 PM ==> String was not recognized as a valid DateTime.
+7/28/2017 3:46:55 PM ==> String was not recognized as a valid DateTime.
+7/28/2017 3:58:36 PM ==> String was not recognized as a valid DateTime.
+7/28/2017 5:25:11 PM ==> Błąd składniowy w dacie w wyrażeniu kwerendy 'Data_wypożyczenia >= #@fromDate# AND Data_wypożyczenia <= #@toDate'.
+7/28/2017 5:26:59 PM ==> Nieodpowiedni typ danych w wyrażeniu kryterium.
+7/29/2017 12:49:03 PM ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/30/2017 6:14:44 PM ==> Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
