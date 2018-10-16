@@ -1,0 +1,10 @@
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+E:\C# Workspace\IntermediateUdemyCourse\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
